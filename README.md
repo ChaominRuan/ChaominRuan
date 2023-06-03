@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Chaomin Ruan 👋</h1>
+<h1 align="center">👋 Hi there, I'm Chaomin Ruan</h1>
 
 <div align="center">
   💻 I'm a front-end developer
