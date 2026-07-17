@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Chaomin Ruan</h1>
 
 <div align="center">
-  💻 I'm a front-end developer
+  💻 I'm a software engineer
   <br>
   🎓 Graduated from a university in Fujian, China in 2021 
   <br>
@@ -12,12 +12,6 @@
   📧 contact me with <a href="mailto: chaominruan@gmail.com>">chaominruan@gmail.com</a>
   <br>
 </div>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ChaominRuan&count_private=true&show_icons=true&hide_border=true" alt="Chaomin Ruan's Github Stats" width="58%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaominRuan&layout=compact&hide_border=true&langs_count=10" alt="Chaomin Ruan's Top Langs" width="37%" /> 
-</p>
-
 
 <div align="center">
   <h4>Visitor's count :eyes:</h4>
